@@ -1,0 +1,79 @@
+==================================================================
+https://keybase.io/bobrik
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bobrik.name
+  * I am bobrik (https://keybase.io/bobrik) on keybase.
+  * I have a public key with fingerprint 05BE 530C B7F7 CDD3 4D8C  1BC0 DBF6 C142 408C B4F0
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01011b48be0b163454b9239afe46a9104dc4732622fcbbc25a859afe4a692ce9b4140a",
+            "fingerprint": "05be530cb7f7cdd34d8c1bc0dbf6c142408cb4f0",
+            "host": "keybase.io",
+            "key_id": "dbf6c142408cb4f0",
+            "kid": "01011b48be0b163454b9239afe46a9104dc4732622fcbbc25a859afe4a692ce9b4140a",
+            "uid": "63191d949107218c7600736aed3c1800",
+            "username": "bobrik"
+        },
+        "revoke": {
+            "sig_ids": [
+                "6240809fdb9f8bb47aa298ccfd09f4cf6fc32cface8bb20d809d00190d6086bb0f"
+            ]
+        },
+        "service": {
+            "hostname": "bobrik.name",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1443888378,
+    "expire_in": 157680000,
+    "prev": "88dc881b18e32bf4d34ccb0d7173bc8489f1b216f2fc56e627c65fbc6346aa69",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtUmtQVVUUvoCKvJQphWnQkFOjQ17pvO55XBPMAfERBBNQdHWuZ++zz72HC/dc
+7jm8QoMIQcqmFMWGIZWK0R4zljxSkIyoSYdi8oVOkhYOOQg5JoWO8Wgfpn40089+
+7Vl7fetb3/rWeisiyBIacHWiZ93a3W13AvpGgCVn4VRQOQE0uYywlxMeNPugfBnp
+htOjyoSdICmSogArAEQCimNYGwtEmhElBbGcJFIkK0OWZ2iOphUIAKRtkmCbzUqc
+SEMkApZiSYmwEorqdSG/z696DZPWBpCNISHgFR7KMsPKAqQAJGWgcJBiaZYUIGAV
+Ehe6Nd2swOKApKMEVcN/OHDOyvsP/P+su2iWjmMokZJFFlfyNCVAniNJnuEkJDOQ
+Ekizb5GO/F6pAGE00IBf9RA7rIQfFWseZLqqqy4sWSfsDoIz5ZKiIgNREQBgeUmi
+RQFCRcafLFQ4BTI0VCSIcJYmZYyVSZISSZkjBQ4AUiG2Ym7cr1iFs+SmR//qnTAb
+WQmfXzM0qOXjhNswfLrdFGWU+UxkyacIOP8mcQLVK+MN4ZJi5NdVzUvYKQyFhmqy
+UizLCILA8IKVQKU+1Y+cqomw8RweniTNRqgYcwqCDAWBApSAGBooLN4shICUeYpn
+ABRYQVQoQFOcgm23cYijecjZFADxhjgJW0+YYxV6NcJuwzolF6bExnklo8iPiB2h
+dYFL5lgCQi3z5gaap2sJDYn8556rXJGWmt61G3duToxfmX7zktJSnVk1NHDhS7sa
+DJ5p3zSvOCPr7IWYqLR3a16IDT+yoD8p7YmwhYfGykLyjj6I2XrS2bZuICUrIubW
+4dzUe38OB2/X5qz+fMuZ5iVV+aOxH5ZObtzwUY7nl8sljTY9/L3lHTPnJ5KgZ3Dm
+t1crWq5dWlT9e+K3xnRF+fWVemr/vvhbelNhe+bk3cRsY8XMmpto6YKIqDeJHxpy
+rU3jV76ajPpj3HGmNrB+Q2bT/rbIyz/2PBZzcHnXXcvmO9H3lkwReTmO969qjnnW
+N2KyjzeusN52VifP70p7LnuoYc/bi/uiHxxpTe8tLz/25GDzQe9FvrJ5ZN+5A0TW
++tWj4V+kXOnp9+/dTo6ro3uzK0Pka6PP+x8ZPtV3uvtnJjhvyv2rJefh2w8tKkrO
+fVbPG6s9GWlYX18atSz82qDUoMVbX96S/NK9lJqJgKOdqV3cie4Tr3V+7BoaejHp
+p8betrCL86cqeoOSXbs7qqxMwbHmou/mxqU0Pl5xqsMy8Fl0axqD4gq+zljzyfr2
+9p7TuQGxMY6dT1Xf2BXw6Lbv4+s8iw50d4bdKPG1GrGr3HFw7eKrZGnNNsItfjB2
+/v5wfdjlaj2jktl//exkUML4yERkScuwTz1eL60q3HN4mu9zbeKnK+/X7vomOrTu
+lZ4mN3+rYkyyLHtHz3fcjT6U/nTruZm/AA==
+=+4LN
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bobrik
+
+==================================================================
