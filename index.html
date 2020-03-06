@@ -1,21 +1,40 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8">
-    <title>bye.</title>
+    <title>ivan.computer</title>
   </head>
+  <style>
+    .rainbow-text-wrapper {
+      background: url("https://user-images.githubusercontent.com/89186/52150144-e63d5200-2623-11e9-979d-30958714c4c4.png") repeat-x;
+      background-size: 4479px auto;
+      -webkit-text-fill-color: transparent;
+      -webkit-background-clip: text;
+      animation: lava_rainbow 30s linear infinite;
+    }
+
+    @keyframes lava_rainbow {
+      0% {
+        background-position: 0px 0px;
+      }
+
+      100% {
+        background-position: -4479px 0px;
+      }
+    }
+
+    .rainbow-text-wrapper {
+      font-size: 20pt;
+      font-family: monospace;
+      font-weight: bold;
+    }
+  </style>
   <body>
-    <div style="text-align: center; font-family: Droid Sans, Lucida Grande, Tahoma">
-      <div style="margin: 10% auto 0">
-        <img style="width: 200px; height: 200px" src="https://www.gravatar.com/avatar/37ceb873ee50e3fa1ca956b3734e7604?s=200" />
-      </div>
-      <div style="font-size: 24px;">nothing here</div>
-      <div style="font-size: 12px">bye.</div>
-      <div style="font-size: 12px; margin-top: 10px;">
-        <a style="color: #222" href="https://twitter.com/ibobrik">twitter</a>
-        <a style="color: #222" href="https://github.com/bobrik">github</a>
-        <a style="color: #222" href="mailto:ibobrik@gmail.com">email</a>
-      </div>
+    <div class="rainbow-text-wrapper" style="text-align: center;">
+      <h1>
+        <a href="https://ivan.computer/">
+          ivan.computer
+        </a>
+      </h1>
     </div>
   </body>
 </html>
